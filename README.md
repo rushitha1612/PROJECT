@@ -3,7 +3,7 @@ A simple web app that detects whether a news article or headline is real or fake
 
 ### 🔗 [Live Demo](https://project-xtpggb5gkkk7kmvrbxjndm.streamlit.app)
 
-![App Screenshot](Screenshot.png)
+![App Screenshot](FAKE-NEWS-DETECTION/Screenshot.png)
 
 ## Quickstart
 ```bash
