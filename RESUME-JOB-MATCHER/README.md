@@ -8,7 +8,6 @@ A smart app that compares a resume with a job description and shows:
 
 ### 🔗 [Live Demo](https://project-mmnxhkgswpowraf5fgsnbs.streamlit.app)
 
-Upload a **resume PDF**, paste a **job description**, and get instant feedback!
 
 ## ⚙️ Built With
 
